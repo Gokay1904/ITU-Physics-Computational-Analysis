@@ -1,8 +1,6 @@
 import numpy as np
 import random
 
-
-
 def myvecfunction(N):
     mtx = np.zeros(N)
     numoftries = 1
