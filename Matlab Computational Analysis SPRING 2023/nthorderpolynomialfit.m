@@ -1,4 +1,3 @@
-% Gökay AKÇAY 090200147
 clear
 clc
 
