@@ -1,5 +1,3 @@
-% Gökay Akçay 
-% 090200147
 clc 
 clear all
 
